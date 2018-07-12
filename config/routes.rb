@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
-  get 'castor' => 'pages#home'
+  root 'pages#home'
   # puis plein de commentaires
 end

@@ -1,0 +1,65 @@
+{:uriI"‡file://app/assets/stylesheets/ApolloSoldier/404.html?type=text/html&id=a2a4f6b6d54f6f5c3b4f74856ac18dcfe0da3245ef37ce80a3fba00106e9272e:ET:load_pathI"app/assets/stylesheets;T:filenameI"2app/assets/stylesheets/ApolloSoldier/404.html;T:	nameI"ApolloSoldier/404;T:logical_pathI"ApolloSoldier/404.html;T:content_typeI"text/html;T:sourceI"ø<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Page Not Found</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+
+        * {
+            line-height: 1.2;
+            margin: 0;
+        }
+
+        html {
+            color: #888;
+            display: table;
+            font-family: sans-serif;
+            height: 100%;
+            text-align: center;
+            width: 100%;
+        }
+
+        body {
+            display: table-cell;
+            vertical-align: middle;
+            margin: 2em auto;
+        }
+
+        h1 {
+            color: #555;
+            font-size: 2em;
+            font-weight: 400;
+        }
+
+        p {
+            margin: 0 auto;
+            width: 280px;
+        }
+
+        @media only screen and (max-width: 280px) {
+
+            body, p {
+                width: 95%;
+            }
+
+            h1 {
+                font-size: 1.5em;
+                margin: 0 0 0.3em;
+            }
+
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Page Not Found</h1>
+    <p>Sorry, but the page you were trying to view does not exist.</p>
+</body>
+</html>
+<!-- IE needs 512+ bytes: http://blogs.msdn.com/b/ieinternals/archive/2010/08/19/http-error-pages-in-internet-explorer.aspx -->
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"@file-digest://app/assets/stylesheets/ApolloSoldier/404.html;TTF:charsetI"
+utf-8;F:digest"%|Ï6I>àé™¾ù|‹¬²`{×&V‡š` 7Qs6ö~:lengthiø:dependencies_digest"%o[š‡şG¿XI7¤˜9£AÑê •ÕãÀn°öJM7:idI"Ea2a4f6b6d54f6f5c3b4f74856ac18dcfe0da3245ef37ce80a3fba00106e9272e;F:
+mtimel+ïâG[

@@ -1,0 +1,66 @@
+{:uriI"Æfile://app/assets/stylesheets/ApolloSoldier/vendor/phpmailer/phpmailer/composer.json?type=application/json&id=ba76da60bc6d99cf5491f7d0d4b7fa6d4b83c17ffc602e6782ca114fe9b06f5d:ET:load_pathI"app/assets/stylesheets;T:filenameI"Rapp/assets/stylesheets/ApolloSoldier/vendor/phpmailer/phpmailer/composer.json;T:	nameI"6ApolloSoldier/vendor/phpmailer/phpmailer/composer;T:logical_pathI";ApolloSoldier/vendor/phpmailer/phpmailer/composer.json;T:content_typeI"application/json;T:sourceI"]{
+    "name": "phpmailer/phpmailer",
+    "type": "library",
+    "description": "PHPMailer is a full-featured email creation and transfer class for PHP",
+    "authors": [
+        {
+            "name": "Marcus Bointon",
+            "email": "phpmailer@synchromedia.co.uk"
+        },
+        {
+            "name": "Jim Jagielski",
+            "email": "jimjag@gmail.com"
+        },
+        {
+            "name": "Andy Prevost",
+            "email": "codeworxtech@users.sourceforge.net"
+        },
+        {
+            "name": "Brent R. Matzelle"
+        }
+    ],
+    "require": {
+        "ext-ctype": "*",
+        "php": ">=5.0.0"
+    },
+    "require-dev": {
+        "doctrine/annotations": "1.2.*",
+        "jms/serializer": "0.16.*",
+        "phpdocumentor/phpdocumentor": "2.*",
+        "phpunit/phpunit": "4.8.*",
+        "symfony/debug": "2.8.*",
+        "symfony/filesystem": "2.8.*",
+        "symfony/translation": "2.8.*",
+        "symfony/yaml": "2.8.*",
+        "zendframework/zend-cache": "2.5.1",
+        "zendframework/zend-config": "2.5.1",
+        "zendframework/zend-eventmanager": "2.5.1",
+        "zendframework/zend-filter": "2.5.1",
+        "zendframework/zend-i18n": "2.5.1",
+        "zendframework/zend-json": "2.5.1",
+        "zendframework/zend-math": "2.5.1",
+        "zendframework/zend-serializer": "2.5.*",
+        "zendframework/zend-servicemanager": "2.5.*",
+        "zendframework/zend-stdlib": "2.5.1"
+    },
+    "suggest": {
+        "league/oauth2-google": "Needed for Google XOAUTH2 authentication"
+    },
+    "autoload": {
+        "classmap": [
+            "class.phpmailer.php",
+            "class.phpmaileroauth.php",
+            "class.phpmaileroauthgoogle.php",
+            "class.smtp.php",
+            "class.pop3.php",
+            "extras/EasyPeasyICS.php",
+            "extras/ntlm_sasl_client.php"
+        ]
+    },
+    "license": "LGPL-2.1"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"`file-digest://app/assets/stylesheets/ApolloSoldier/vendor/phpmailer/phpmailer/composer.json;TTF:charsetI"
+utf-8;F:digest"%…Añ˚œç≤Œè«,˚óhäß&ÂU√zRkawˆ.Ôh:lengthi]:dependencies_digest"%B˙S∞`´[¶Çw.018w)ëxâ´+B9jäà:idI"Eba76da60bc6d99cf5491f7d0d4b7fa6d4b83c17ffc602e6782ca114fe9b06f5d;F:
+mtimel+‚G[

@@ -1,0 +1,12 @@
+{:uriI"äfile://app/assets/stylesheets/ApolloSoldier/robots.txt?type=text/plain&id=9c090714fdbbc42f6aec223e9345b089bd78a4581fcde37af541d360a9e9c42f:ET:load_pathI"app/assets/stylesheets;T:filenameI"4app/assets/stylesheets/ApolloSoldier/robots.txt;T:	nameI"ApolloSoldier/robots;T:logical_pathI"ApolloSoldier/robots.txt;T:content_typeI"text/plain;T:sourceI"S# www.robotstxt.org/
+
+# Allow crawling of all content
+User-agent: *
+Disallow:
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"4processors:type=text/plain&file_type=text/plain;TTI"Bfile-digest://app/assets/stylesheets/ApolloSoldier/robots.txt;TTF:charsetI"
+utf-8;F:digest"%! 3Ø⁄9YË√wÂ™YgßéÛ√·ÚüæSîåÈä:lengthiS:dependencies_digest"%>&
+¨èwÓı3‘mñæ
+¶‘Õ-Ôg≤,EÔOç%f:idI"E9c090714fdbbc42f6aec223e9345b089bd78a4581fcde37af541d360a9e9c42f;F:
+mtimel+Ô‚G[

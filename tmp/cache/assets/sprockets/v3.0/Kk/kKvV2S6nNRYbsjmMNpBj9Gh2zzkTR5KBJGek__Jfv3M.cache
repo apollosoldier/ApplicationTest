@@ -1,0 +1,33 @@
+{:uriI"ªfile://app/assets/stylesheets/ApolloSoldier/vendor/gregwar/captcha/composer.json?type=application/json&id=ce7ab4bbfa603b886bac183629be6fcbe3cea516e922a94106358e06fb4c1a9e:ET:load_pathI"app/assets/stylesheets;T:filenameI"Napp/assets/stylesheets/ApolloSoldier/vendor/gregwar/captcha/composer.json;T:	nameI"2ApolloSoldier/vendor/gregwar/captcha/composer;T:logical_pathI"7ApolloSoldier/vendor/gregwar/captcha/composer.json;T:content_typeI"application/json;T:sourceI"¥{
+    "name": "gregwar/captcha",
+    "type": "captcha",
+    "description": "Captcha generator",
+    "keywords": ["captcha", "spam", "bot"],
+    "homepage": "https://github.com/Gregwar/Captcha",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GrÃ©goire Passault",
+            "email": "g.passault@gmail.com",
+            "homepage": "http://www.gregwar.com/"
+        },
+        {
+            "name": "Jeremy Livingston",
+            "email": "jeremy.j.livingston@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "ext-gd": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gregwar\\Captcha\\": "/"
+        }
+    }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"\file-digest://app/assets/stylesheets/ApolloSoldier/vendor/gregwar/captcha/composer.json;TTF:charsetI"
+utf-8;F:digest"%†23»Ğ›-££¿:‘¥”§Dk]>®;5%c„á:lengthi¥:dependencies_digest"%õH«aìgyI[-J¡$¥Z*§*=½ +¯›Û$Ããü:idI"Ece7ab4bbfa603b886bac183629be6fcbe3cea516e922a94106358e06fb4c1a9e;F:
+mtimel+ğâG[

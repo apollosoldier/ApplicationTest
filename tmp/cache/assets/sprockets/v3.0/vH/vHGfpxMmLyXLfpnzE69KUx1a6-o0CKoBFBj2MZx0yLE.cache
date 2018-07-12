@@ -1,0 +1,26 @@
+{:uriI"µfile://app/assets/stylesheets/ApolloSoldier/vendor/FormGuide/PHPFormValidator/composer.json?type=application/json&id=29c3c29b5bff0e0625d720310ad1c73216b2ef2d456bb8b8f3f6a066f26a4422:ET:load_pathI"app/assets/stylesheets;T:filenameI"Yapp/assets/stylesheets/ApolloSoldier/vendor/FormGuide/PHPFormValidator/composer.json;T:	nameI"=ApolloSoldier/vendor/FormGuide/PHPFormValidator/composer;T:logical_pathI"BApolloSoldier/vendor/FormGuide/PHPFormValidator/composer.json;T:content_typeI"application/json;T:sourceI"÷{
+    "name": "FormGuide/PHPFormValidator",
+    "description": "A PHP Library for Self-Documenting Form Validations",
+    "license": "MIT",
+    "keywords": ["form validation", "php form validation"],
+    "authors": [
+        {
+            "name": "Prasanth Janardhanan"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "FormGuide\\PHPFormValidator\\": "src"
+        }
+    }
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"gfile-digest://app/assets/stylesheets/ApolloSoldier/vendor/FormGuide/PHPFormValidator/composer.json;TTF:charsetI"
+utf-8;F:digest"%ŸcêyçæËœ°p=WŠŠé«_˜ÔÅÉó¿Å?º:lengthi÷:dependencies_digest"%+¨[*Ê{¦ÂİWGw)$İq‰ñÍGêsxÔÇÚÆs:idI"E29c3c29b5bff0e0625d720310ad1c73216b2ef2d456bb8b8f3f6a066f26a4422;F:
+mtimel+ïâG[
